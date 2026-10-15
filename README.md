@@ -13,7 +13,7 @@ At Level 3: The red region is 1 pixel wide.
 At Level 4: The red region is 1 pixel wide, and it moves up and down the strip as well. This is the 'ultimate' level, which proves to be quite difficult for most players.
 
 Hardware:
-Arduino UNO R3, WS12812b LED strip (144 panels), 5 inch diameter arcade button, Breadboard, 220 ohm resistor, 10k ohm resistor, 1000 mirofarad capacitor. The circuit diagram can be found in the Images folder.
+Arduino UNO R3, WS12812b LED strip (144 panels), 5 inch diameter arcade button, Breadboard, 220 ohm resistor, 10k ohm resistor, 1000 mirofarad capacitor. The circuit diagram can be found at arcade_circuit_diagram-6.jpg.
 
 Implementation:
 LED Indexing - the program iterates through each element of the LED strip, using a loop to activate and deactivate every panel. 
