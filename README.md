@@ -1,5 +1,5 @@
 # arduino_led_arcade_game
-This repository contains the basic information for an Arduino LED arcade game, which utilizes microelectronics to test a user's reaction speed. 
+This repository contains the basic information for an Arduino LED arcade game, which utilizes microelectronics to test a user's reaction speed and finger dexterity. 
 It was showcased at my high school's club fair to promote the Computer Science Honor Society, and will be used for similar CS outreach events such as tech fairs / hackathons at my school.
 
 Features:
